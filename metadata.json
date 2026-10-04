@@ -1,0 +1,6 @@
+{
+  "name": "Neighborknot",
+  "description": "Hyper-local micro-bartering and reciprocal skill sharing for neighbors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
